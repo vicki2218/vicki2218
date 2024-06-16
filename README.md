@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to contribute my skills to open source 
 - 💞️ I’m looking to collaborate on any project where I can be of help with documentation or product design 
 - 😄 Pronouns: she / her
-- 
 
 
 <!---
